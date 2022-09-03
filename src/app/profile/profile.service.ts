@@ -19,10 +19,10 @@ export class ProfileService {
   ]
   about2 = `Software Developer with 2 years of experience .
   Worked with Software Development Life Cycle(SDLC) and  agile methodologies .
-  Expertise in Angular 2+ All versions, React, Javascript,  Node JS and UI with Responsive Designs .
-  Have good understanding of Python, Jquery, Bootstrap, MongoDB, Firebase, and MYSQL`
+  Expertise in Java, Soring Boot, Node JS and Angular with Responsive Designs .
+  Have good understanding of Cassandra, MongoDB and SQL`
 
-  about = "Lover of innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
+  about = "Love to do innovation and everything related to generate new knowledge.Face problems with a smile and solve them as soon as possible. Very calculated about the time I spend and work I do."
   resumeurl = "https://docs.google.com/document/d/1NcW76BpZl9yWPTq-dsA9-FzyqTLb6PJM275sUBoje8w/edit?usp=sharing"
 
   skillsData: any = [
